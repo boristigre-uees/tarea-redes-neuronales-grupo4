@@ -2,7 +2,12 @@
 
 Este repositorio contiene la **implementación desde cero de una red neuronal feedforward**, desarrollada en Python utilizando únicamente **NumPy**, como parte de la **tarea de Redes Neuronales** del curso de **Inteligencia Artificial** en la **UEES**.
 
-El objetivo principal es demostrar la comprensión de los fundamentos de las redes neuronales mediante su implementación manual y su aplicación a un caso práctico.
+## Integrantes – Grupo 4
+
+- Arnaldo Andrés Rojas Jupiter  
+- Andres Asisclo Florencia Toala 
+- Denisse Angie Flores Arellano  
+- Boris Ricardo Tigre Loja
 
 ---
 
@@ -66,3 +71,4 @@ Clonar el repositorio:
 ```bash
 git clone https://github.com/boristigre-uees/tarea-redes-neuronales-grupo4.git
 cd tarea-redes-neuronales-grupo4
+
